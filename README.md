@@ -25,7 +25,7 @@ A novel enhanced collaborative autoencoder with knowledge distillation for top-N
 
 Binarized collaborative filtering with distilling graph convolutional networks. Wang, Haoyu, Defu Lian, and Yong Ge. arXiv preprint arXiv:1906.01829
 
-Collaborative Distillation for Top-N Recommendation[C]//2019 IEEE International Conference on Data Mining. Lee J, Choi M, Lee J, et al. ICDM
+Collaborative Distillation for Top-N Recommendation. Lee J, Choi M, Lee J, et al. ICDM
 
 ### 2020
 
