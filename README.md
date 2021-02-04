@@ -21,6 +21,8 @@ Neural compatibility modeling with attentive knowledge distillation. Song, Xueme
 
 Ranking distillation: Learning compact ranking models with high performance for recommender system. Tang, Jiaxi, and Ke Wang. SIGKDD
 
+### 2019
+
 A novel enhanced collaborative autoencoder with knowledge distillation for top-N recommender systems. Pan Y, He F, Yu H. Neurocomputing
 
 Binarized collaborative filtering with distilling graph convolutional networks. Wang, Haoyu, Defu Lian, and Yong Ge. arXiv preprint arXiv:1906.01829
